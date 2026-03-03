@@ -176,4 +176,3 @@ Built as a portfolio project showcasing expertise in:
 
 ---
 
-**Built with ❤️ for LLM Engineering**
